@@ -12,5 +12,5 @@ Package: mx-cleanup
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}, libcmd, xdg-utils|mx-viewer, baobab
 Description: mx-cleanup
- Program for freeing space and clearing logs.
+ Quick safe removal of old files
 
