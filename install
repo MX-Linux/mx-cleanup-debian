@@ -1,0 +1,6 @@
+mx-cleanup		usr/bin
+mx-cleanup.desktop	usr/share/applications
+mx-cleanup.png		usr/share/pixmaps
+translations/*.qm	usr/share/mx-cleanup/locale
+license.html            usr/share/doc/mx-cleanup
+
